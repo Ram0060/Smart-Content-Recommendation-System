@@ -5,7 +5,7 @@ This project scrapes the CNET homepage to extract article headlines, applies NLP
 
 ## 🚀 Features
 
-🔍 Scrapes headlines (<h1>, <h2>, <h3>) and paragraphs from the CNET homepage
+🔍 Scrapes headlines and paragraphs from the CNET homepage
 
 🧼 Cleans and tokenizes text using spaCy
 
