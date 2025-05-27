@@ -1,0 +1,49 @@
+type,text,url,tokens,dominant_topic,topic_label
+h1,CNET,https://www.cnet.com/,['cnet'],8,Tech Launches & Exhibitions
+h2,Today's Top Deals,https://www.cnet.com/,"['today', 'deal']",10,EVs & Driving in Extreme Conditions
+h2,Memorial Day,https://www.cnet.com/,"['memorial', 'day']",7,Memorial Day Sales _ Home Comfort
+h2,More to Explore,https://www.cnet.com/,['explore'],10,EVs & Driving in Extreme Conditions
+h2,Latest,https://www.cnet.com/,['late'],6,Internet Access & Connectivity
+h3,80+ Best Memorial Day Deals: Shop Top Sales Vetted by CNET Experts Before Deals Disappear,https://www.cnet.com/,"['good', 'memorial', 'day', 'deal', 'shop', 'sale', 'vet', 'cnet', 'expert', 'deal', 'disappear']",1,Holiday Tech Deals (Memorial Day)
+h3,Memorial Day Deal: Beat the Heat With This Yoshenmo Handheld Fan for Just $11,https://www.cnet.com/,"['memorial', 'day', 'deal', 'beat', 'heat', 'yoshenmo', 'handheld', 'fan']",3,Sleep Tech & Personal Gadgets
+h3,Best iPhone in 2025: Here's Which Apple Phone You Should Buy,https://www.cnet.com/,"['good', 'iphone', 'apple', 'phone', 'buy']",1,Holiday Tech Deals (Memorial Day)
+h3,"Best Amazon Memorial Day Deals: Shop 70+ Bargains From Apple, Sony, Samsung and More",https://www.cnet.com/,"['good', 'amazon', 'memorial', 'day', 'deal', 'shop', 'bargain', 'apple', 'sony', 'samsung']",1,Holiday Tech Deals (Memorial Day)
+h3,"50+ Best Memorial Day Deals Under $25: Deep Discounts on Tech, Home Essentials and More",https://www.cnet.com/,"['good', 'memorial', 'day', 'deal', 'deep', 'discount', 'tech', 'home', 'essential']",1,Holiday Tech Deals (Memorial Day)
+h3,"Memorial Day Sale: Apple’s Latest 11-Inch iPad Is Down to $299, but This Price Won’t Last",https://www.cnet.com/,"['memorial', 'day', 'sale', 'apple', 'late', 'inch', 'ipad', 'price', 'will']",11,Generative AI & Tech Advice
+h3,Memorial Day Deals: You Can Grab This Impressive 100W Baseus USB-C Cable at a 10% Discount if You’re Quick,https://www.cnet.com/,"['memorial', 'day', 'deal', 'grab', 'impressive', 'baseus', 'usb', 'c', 'cable', 'discount', 'quick']",1,Holiday Tech Deals (Memorial Day)
+h3,Memorial Day Sale: Prime Members Can Save $30 on This Baseus Blade 6-in-1 Power Strip and Get 2 Free 45W USB-C Chargers,https://www.cnet.com/,"['memorial', 'day', 'sale', 'prime', 'member', 'save', 'baseus', 'blade', 'power', 'strip', 'free', 'usb', 'c', 'charger']",8,Tech Launches & Exhibitions
+h3,How to Watch the New York Knicks vs. Indiana Pacers Game 3 Tonight for Free,https://www.cnet.com/,"['watch', 'new', 'york', 'knicks', 'indiana', 'pacer', 'game', 'tonight', 'free']",1,Holiday Tech Deals (Memorial Day)
+h3,"Best Memorial Day Laptop Deals: I Found Savings of Up to $450 on the Best Devices From HP, Samsung, and More",https://www.cnet.com/,"['good', 'memorial', 'day', 'laptop', 'deal', 'find', 'saving', 'good', 'device', 'hp', 'samsung']",7,Memorial Day Sales _ Home Comfort
+h3,Memorial Day Deal: Save $130 on the Powerful Yet Portable JBL Xtreme 4 Speaker,https://www.cnet.com/,"['memorial', 'day', 'deal', 'save', 'powerful', 'portable', 'jbl', 'xtreme', 'speaker']",7,Memorial Day Sales _ Home Comfort
+h3,"Today's NYT Strands Hints, Answers and Help for May 26, #449",https://www.cnet.com/,"['today', 'nyt', 'strand', 'hint', 'answer', 'help']",6,Internet Access & Connectivity
+h3,"Today's Wordle Hints, Answer and Help for May 26, #1437",https://www.cnet.com/,"['today', 'wordle', 'hint', 'answer', 'help']",9,Internet Services & Comparisons
+h3,"Best Memorial Day Mattress Deals: Shop Major Savings on High-Quality Mattresses From Saatva, Nectar, Helix and More",https://www.cnet.com/,"['good', 'memorial', 'day', 'mattress', 'deal', 'shop', 'major', 'saving', 'high', 'quality', 'mattress', 'saatva', 'nectar', 'helix']",7,Memorial Day Sales _ Home Comfort
+h3,Memorial Day Sales: Save Up to 63% on Our Favorite Arlo Security Cameras and More,https://www.cnet.com/,"['memorial', 'day', 'sale', 'save', 'favorite', 'arlo', 'security', 'camera']",7,Memorial Day Sales _ Home Comfort
+h2,Google I/O,https://www.cnet.com/,"['google', 'o']",7,Memorial Day Sales _ Home Comfort
+h2,Our Expertise,https://www.cnet.com/,['expertise'],3,Sleep Tech & Personal Gadgets
+h2,Tech,https://www.cnet.com/,['tech'],2,Digital Divide & Infrastructure
+h2,Tariffs,https://www.cnet.com/,['tariff'],2,Digital Divide & Infrastructure
+h2,Home,https://www.cnet.com/,['home'],4,Home Tech Essentials & Appliances
+h2,Crossing the Broadband Divide,https://www.cnet.com/,"['cross', 'broadband', 'divide']",2,Digital Divide & Infrastructure
+h2,Energy and Utilities,https://www.cnet.com/,"['energy', 'utility']",2,Digital Divide & Infrastructure
+h2,Deep Dives,https://www.cnet.com/,"['deep', 'dive']",1,Holiday Tech Deals (Memorial Day)
+h2,Internet,https://www.cnet.com/,['internet'],6,Internet Access & Connectivity
+h2,Sleep Through the Night,https://www.cnet.com/,"['sleep', 'night']",0,Politics & Tech Market Impact
+h2,Tech Tips,https://www.cnet.com/,"['tech', 'tip']",2,Digital Divide & Infrastructure
+h2,Daily Puzzle Answers,https://www.cnet.com/,"['daily', 'puzzle', 'answer']",9,Internet Services & Comparisons
+h2,Money,https://www.cnet.com/,['money'],4,Home Tech Essentials & Appliances
+p,"Snag hand-picked Memorial Day weekend deals on tech, appliances, home gear and everyday essentials.",https://www.cnet.com/,"['snag', 'hand', 'pick', 'memorial', 'day', 'weekend', 'deal', 'tech', 'appliance', 'home', 'gear', 'everyday', 'essential']",4,Home Tech Essentials & Appliances
+p,"Our shopping experts unearth the best tech and home essential deals on Amazon every day. If you make a purchase using our links, CNET may earn a commission.",https://www.cnet.com/,"['shopping', 'expert', 'unearth', 'good', 'tech', 'home', 'essential', 'deal', 'amazon', 'day', 'purchase', 'link', 'cnet', 'earn', 'commission']",7,Memorial Day Sales _ Home Comfort
+p,Other companies better watch out because the LG G5 Series OLED just set a new standard for premium TVs.,https://www.cnet.com/,"['company', 'well', 'watch', 'lg', 'series', 'ole', 'set', 'new', 'standard', 'premium', 'tv']",8,Tech Launches & Exhibitions
+p,President Donald Trump's new tariffs have prompted price hikes in the tech space and cast uncertainty in the US market. Here's what we know.,https://www.cnet.com/,"['president', 'donald', 'trump', 'new', 'tariff', 'prompt', 'price', 'hike', 'tech', 'space', 'cast', 'uncertainty', 'market', 'know']",0,Politics & Tech Market Impact
+p,"CNET, Mashable, PCMag, ZDNET and Lifehacker scoured miles of booths and exhibits, then debated and handpicked the best new products of CES 2025.",https://www.cnet.com/,"['cnet', 'mashable', 'pcmag', 'zdnet', 'lifehacker', 'scour', 'mile', 'booth', 'exhibit', 'debate', 'handpicke', 'good', 'new', 'product', 'ce']",8,Tech Launches & Exhibitions
+p,It just might be the best espresso machine ever for small kitchens.,https://www.cnet.com/,"['good', 'espresso', 'machine', 'small', 'kitchen']",3,Sleep Tech & Personal Gadgets
+p,Millions of Americans lack access to high-speed internet. Here's how to fix that.,https://www.cnet.com/,"['million', 'americans', 'lack', 'access', 'high', 'speed', 'internet', 'fix']",6,Internet Access & Connectivity
+p,"After the ups and downs of 2024, experts still feel the future is bright for residential solar.",https://www.cnet.com/,"['up', 'down', 'expert', 'feel', 'future', 'bright', 'residential', 'solar']",7,Memorial Day Sales _ Home Comfort
+p,"Misconceptions remain around EV driving. In northern Sweden, I saw just how good they really are in frigid temperatures and even driving across a frozen lake.",https://www.cnet.com/,"['misconception', 'remain', 'ev', 'driving', 'northern', 'sweden', 'see', 'good', 'frigid', 'temperature', 'drive', 'frozen', 'lake']",10,EVs & Driving in Extreme Conditions
+p,Immerse yourself in our in-depth stories.,https://www.cnet.com/,"['immerse', 'depth', 'story']",8,Tech Launches & Exhibitions
+p,I’ve had T-Mobile’s 5G home internet service for two years. It’s superior to DSL but has some quirks I've discovered along the way.,https://www.cnet.com/,"['t', 'mobile', 'g', 'home', 'internet', 'service', 'year', 'superior', 'dsl', 'quirk', 'discover', 'way']",9,Internet Services & Comparisons
+p,Get the best sleep of your life with our expert tips.,https://www.cnet.com/,"['good', 'sleep', 'life', 'expert', 'tip']",3,Sleep Tech & Personal Gadgets
+p,Get the most out of your phone with this expert advice.,https://www.cnet.com/,"['phone', 'expert', 'advice']",11,Generative AI & Tech Advice
+p,"The rise of generative AI is this generation's iPhone moment. In response, we're unveiling AI Atlas, a brand-new compendium of advice, reviews, news and views on artificial intelligence.",https://www.cnet.com/,"['rise', 'generative', 'ai', 'generation', 'iphone', 'moment', 'response', 'unveil', 'ai', 'atlas', 'brand', 'new', 'compendium', 'advice', 'review', 'news', 'view', 'artificial', 'intelligence']",11,Generative AI & Tech Advice
+p,File your return online with one of these tax services so that you can get your refund faster.,https://www.cnet.com/,"['file', 'return', 'online', 'tax', 'service', 'refund', 'fast']",11,Generative AI & Tech Advice
