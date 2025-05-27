@@ -4,6 +4,7 @@
 This project scrapes the CNET homepage to extract article headlines, applies NLP + LDA Topic Modeling to categorize the content, and builds a personalized recommender system using ALS (Alternating Least Squares). A simple Streamlit app allows users to explore trending topics and receive article recommendations.
 
 ## 🚀 Features
+
 🔍 Scrapes headlines (<h1>, <h2>, <h3>) and paragraphs from the CNET homepage
 
 🧼 Cleans and tokenizes text using spaCy
@@ -24,6 +25,7 @@ Optional user feedback system (👍 / 👎)
 
 
 🧠 How It Works
+
 Scraping: Extracts structured headlines and text from https://www.cnet.com/
 
 Preprocessing: Uses spaCy for lemmatization, stopword removal, and tokenization
@@ -40,6 +42,7 @@ App: Runs a Streamlit UI to interactively display recommendations by topic
 
 
 📈 Example Output
+
 Topic #1: Politics & Tech Market Impact
 
 Topic #5: Home Tech Essentials & Appliances
